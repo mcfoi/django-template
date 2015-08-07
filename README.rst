@@ -1,0 +1,1 @@
+A basic Django Project template for usage in LiClipse environments.
